@@ -17,4 +17,11 @@ Let me expound on these.
 ###### Coming up with an idea for a personal project
 
 I'm sure the question pops up. Why are personal projects important? 
-I'm glad you asked. If you look at the resumes of every New Grad Software Engineer and/or Intern that came out of college you will see a big and loud **Projects** section
+
+I'm glad you asked. If you look at the resumes of every New Grad Software Engineer and/or Intern that came out of college you will see a big and loud **Projects** section and the reason is because it demonstrates interest outside classwork and that's what helps you differentiate yourself from the rest of the applicants that apply for SWE roles. 
+
+In your first year or so I would recommend spending less time on the idea phase especially if ideas come slower to you. It can be simpler, more digestable projects. My first project was on a very fundamental level just outputting hardcoded captions for pictures. I made it look fancy with the technical theatrics but that's essentially what it was on the angle of ideas. It's obviously important to have better ideas down the line to stand out even further but I have seen a lot of people get caught up in cycles of perfectionism so I think it's more important to get a project under your belt. 
+
+As Gayle McDowell (who I will introduce you to later) said 
+> It doesn't matter too much what it is. The important thing is that you're coding. Not only will this develop your technical skills and practical experience, your initiative will impress companies. 
+> the present is our past.

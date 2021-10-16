@@ -15,7 +15,7 @@ Once you get into Software Engineering and/or Development, you will hear terms l
 
 Let me expound on these. 
 
-###### Coming up with an idea for a personal project
+### Coming up with an idea for a personal project
 
 I'm sure the question pops up. Why are personal projects important? 
 

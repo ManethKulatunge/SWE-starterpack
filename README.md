@@ -9,6 +9,12 @@ These resources and tips are generally relevant for most people who are in techn
 
 Once you get into Software Engineering and/or Development, you will hear terms like Mobile Development, Front End Development, Backend Development, and Full Stack Development. It's very overwhelming initially so I would recommend the following steps.
 
-1. Item 1
-1. Item 2
-1. Item 3
+1. Come up with an idea for a personal project involving programming
+1. Learn the techologies related to it 
+1. Build the Project
+
+Let me expound on these. 
+###### Coming up with an idea for a personal project
+
+I'm sure the question pops up. Why are personal projects important? 
+I'm glad you asked. If you look at the resumes of every New Grad Software Engineer and/or Intern that came out of college you will see a big and loud **Projects** section

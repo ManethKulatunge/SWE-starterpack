@@ -14,6 +14,7 @@ Once you get into Software Engineering and/or Development, you will hear terms l
 1. Build the Project
 
 Let me expound on these. 
+
 ###### Coming up with an idea for a personal project
 
 I'm sure the question pops up. Why are personal projects important? 
@@ -24,4 +25,3 @@ In your first year or so I would recommend spending less time on the idea phase 
 
 As Gayle McDowell (who I will introduce you to later) said 
 > It doesn't matter too much what it is. The important thing is that you're coding. Not only will this develop your technical skills and practical experience, your initiative will impress companies. 
-> the present is our past.

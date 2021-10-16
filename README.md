@@ -9,3 +9,6 @@ These resources and tips are generally relevant for most people who are in techn
 
 Once you get into Software Engineering and/or Development, you will hear terms like Mobile Development, Front End Development, Backend Development, and Full Stack Development. It's very overwhelming initially so I would recommend the following steps.
 
+1. Item 1
+1. Item 2
+1. Item 3

@@ -25,3 +25,11 @@ In your first year or so I would recommend spending less time on the idea phase 
 
 As Gayle McDowell (who I will introduce you to later) said 
 > It doesn't matter too much what it is. The important thing is that you're coding. Not only will this develop your technical skills and practical experience, your initiative will impress companies. 
+
+The idea can even be related to few of your favourite ideas. For eg: If blockchain is your jam, you can think of building a decentralised application to solve a specific problem. Or honestly if that seems far out of reach for now you can even just start building your website. Important part is to GET STARTED. 
+
+
+### Learning techologies
+
+This is probably going to be one of the more interesting parts of the process as a budding developer because you start with a clean slate. You have no technologies under you belt and this is when everything changes. I would say the most ideal way to do a project is to think of an idea and then figure out the technologies and the domains you will be working on but sometimes when it gets hard to come up with ideas, I think think of a platform or the type of application might help narrow down the idea generation process. 
+

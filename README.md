@@ -33,9 +33,13 @@ The idea can even be related to few of your favourite ideas. For eg: If blockcha
 
 This is probably going to be one of the more interesting parts of the process as a budding developer because you start with a clean slate. You have no technologies under you belt and this is when everything changes. I would say the most ideal way to do a project is to think of an idea and then figure out the technologies and the domains you will be working on but sometimes when it gets hard to come up with ideas, I think think of a platform or the type of application might help narrow down the idea generation process. 
 
-The following table is a summary of the domains of Software Development that you could work with, the technologies that are generally used for it and also some websites/resources for those technologies.
-
-Domain | Technologies | Resources
--------|--------------|-----------
-Web Development (Websites, Webapps etc) | Fundamentals: HTML, CSS, And Javascript |
-Content in the first column | Content in the second column |
+The following table is a summary of the domains of Software Development that you could work with and the general technologies that are generally used for it.
+Domain | Technologies |
+-------|--------------
+Web Development (Websites, Webapps etc) | Beginner: HTML, CSS, And Javascript
+Advanced: React,Angular, Node.JS, MongoDB, Express.JS, etc
+Mobile Development |  Swift, React Native, Java (Android)
+Game Development | Unity, C#, C++, Unreal
+Cloud Computing | AWS, Azure, GCP
+Embedded Systems | C 
+Data Science/Analysis | Python, SQL, R

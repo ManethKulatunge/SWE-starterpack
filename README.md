@@ -72,4 +72,10 @@ There is alot more resources to come so stay tuned!
 
 This is definetely the most important part. You can either do this alone or partner up with a friend. However, my favourite way of implementing projects initially was to go to Hackathons!! 
 
-The best website for Hackathons would be [mlh.io] Major League Hacking
+Hackathons are essentially events where you build a product in a limited time frame. Hacking is known as figuring things out on the go and that's exactly the challenge that comes up with Hackathons. 
+
+The best website for Hackathons would be [Major League Hacking](https://mlh.io/). There will be more options when in person Hackathons come into the scene. One thing to note is that Hackathons are open and catered to people of all experience levels and there a lot of interesting people you can meet there. I was super inspired by the ideas I saw and it was the staple diet of my job hunts when they were in person. I am a relatively veteran hacker now with about 6-7 hackathons under my belt and I enjoyed every single one of them. 
+
+The other place to look for hackathons would be [Devpost](https://devpost.com/). You can also use this to build out your hacker portfolio too. 
+
+Make sure your projects are commited and posted to GitHub. This is how recruiters can know about your contributions.

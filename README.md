@@ -37,5 +37,5 @@ The following table is a summary of the domains of Software Development that you
 
 Domain | Technologies | Resources
 -------|--------------|-----------
-Content from cell 1 | Content from cell 2 |
+Web Development (Websites, Webapps etc) | Fundamentals: HTML, CSS, And Javascript |
 Content in the first column | Content in the second column |

@@ -57,11 +57,11 @@ Resource | Comments
 [Educative](https://www.educative.io) | I generally like to go over theory on Educative because their text based content with embedded code editors are lovely. I learned asynchronous programming for Javascript which comes up on Software Developer Interviews and this site is great to solidify such concepts.
 [CodeAcademy](https://www.codecademy.com/learn) | This is what made me fall in love with software because the site presents a lot of learning paths and the UI for the exercises are great. Practice always makes perfect and CodeAcademy is GREAT for that.
 [GitHub Student Developer Pack](https://education.github.com/pack) | This is digital GOLD!! There are a large amount of advantages that come with signing up here so please make sure you do! Alot of free goodies (Educative and Front End Masters are free for like 6 months
-[https://www.udemy.com/] Udemy | This is a cost effective way of consuming video content. I learned Angular, Node.JS, and a bit of React on this. Would have preferred CodeAcademy but this is where the money was at that time haha
-[https://frontendmasters.com/] FrontEnd Masters | Lovely and Unique set of topics here. I really like going over some of them. It's a fancier and more organised version of Udemy in my opinion
-[https://www.datacamp.com/] DataCamp | I learned python here. It's a lovely site if you feel like you want to dive into data science and machine learning
-[https://cscircles.cemc.uwaterloo.ca/] Learn Python| A great and simple intro to Python in my opinion
-[https://learngitbranching.js.org/] Git Branching | Git is essential for development. It's for version control which is a concept you should be comofortable with and I think this interactive version helps. Make sure you practice what you learn here by playing around with some repositories
+[Udemy] (https://www.udemy.com/)| This is a cost effective way of consuming video content. I learned Angular, Node.JS, and a bit of React on this. Would have preferred CodeAcademy but this is where the money was at that time haha
+[FrontEnd Masters] (https://frontendmasters.com/) | Lovely and Unique set of topics here. I really like going over some of them. It's a fancier and more organised version of Udemy in my opinion
+[DataCamp] (https://www.datacamp.com/)  | I learned python here. It's a lovely site if you feel like you want to dive into data science and machine learning
+[Learn Python] (https://cscircles.cemc.uwaterloo.ca/) | A great and simple intro to Python in my opinion
+[Git Branching] (https://learngitbranching.js.org/)  | Git is essential for development. It's for version control which is a concept you should be comofortable with and I think this interactive version helps. Make sure you practice what you learn here by playing around with some repositories
 General Resources | Plural Sight, MIT CourseWare, Coursera , edX
 
 These resources are bound to help you out when you are starting out. It might be overwhelming to see everything here but that's a good problem to have. Choose one that you enjoy and stick to it. Just make sure it addresses your learning goals and you should be fine. 

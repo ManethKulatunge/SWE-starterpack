@@ -34,9 +34,10 @@ The idea can even be related to few of your favourite ideas. For eg: If blockcha
 This is probably going to be one of the more interesting parts of the process as a budding developer because you start with a clean slate. You have no technologies under you belt and this is when everything changes. I would say the most ideal way to do a project is to think of an idea and then figure out the technologies and the domains you will be working on but sometimes when it gets hard to come up with ideas, I think think of a platform or the type of application might help narrow down the idea generation process. 
 
 The following table is a summary of the domains of Software Development that you could work with and the general technologies that are generally used for it.
-**Domain** | **Technologies** |
+
+Domain | Technologies |
 -------|--------------
-Web Development (Websites, Webapps etc) | HTML, CSS, And Javascript
+Web Development | HTML, CSS, And Javascript
 Mobile Development |  Swift, React Native, Java (Android)
 Game Development | Unity, C#, C++, Unreal
 Cloud Computing | AWS, Azure, GCP
@@ -47,3 +48,10 @@ Blockchain | Solidity
 *Please note that this is only a starting point for these domains. The technologies are used in multiple discliplines and are put in the columns just to help you get started on the domain if you are indeed interested*
 
 **More technologies to checkout down the line:** Typescript, Express.JS, Node.JS, React, Angular, Kotlin, GraphQL, Docker, Kubernetes, Spring
+
+This next table has resources and my comments on them. These are purely personal notes so don't take them too seriously. 
+
+Resource | Comments
+-------- | ----------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column

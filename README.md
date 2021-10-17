@@ -53,5 +53,5 @@ This next table has resources and my comments on them. These are purely personal
 
 Resource | Comments
 -------- | ----------
-Content from cell 1 | Content from cell 2
+[FreeCodeCamp](https://www.freecodecamp.org/learn/) | This is literally the best free resource out there. It has interactive coding exercises and it covers a large range of topics. I was refereshing myself on Node.JS and API Development recently and they do such a good job. Check it out!
 Content in the first column | Content in the second column

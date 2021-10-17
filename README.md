@@ -36,6 +36,6 @@ This is probably going to be one of the more interesting parts of the process as
 The following table is a summary of the domains of Software Development that you could work with, the technologies that are generally used for it and also some websites/resources for those technologies.
 
 Domain | Technologies | Resources
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+------------ | -------------------
+Content from cell 1 | Content from cell 2 |
+Content in the first column | Content in the second column |

@@ -36,10 +36,14 @@ This is probably going to be one of the more interesting parts of the process as
 The following table is a summary of the domains of Software Development that you could work with and the general technologies that are generally used for it.
 Domain | Technologies |
 -------|--------------
-Web Development (Websites, Webapps etc) | Beginner: HTML, CSS, And Javascript
-Advanced: React,Angular, Node.JS, MongoDB, Express.JS, etc
+Web Development (Websites, Webapps etc) | HTML, CSS, And Javascript
 Mobile Development |  Swift, React Native, Java (Android)
 Game Development | Unity, C#, C++, Unreal
 Cloud Computing | AWS, Azure, GCP
 Embedded Systems | C 
 Data Science/Analysis | Python, SQL, R
+Blockchain | Solidity
+
+*Please note that this is only a starting point for these domains. The technologies are used in multiple discliplines and are put in the columns just to help you get started on the domain if you are indeed interested*
+
+More technologies to checkout down the line: Typescript, Express.JS, Node.JS, React, Angular, Kotlin, GraphQL, Docker, Kubernetes, Spring

@@ -79,3 +79,16 @@ The best website for Hackathons would be [Major League Hacking](https://mlh.io/)
 The other place to look for hackathons would be [Devpost](https://devpost.com/). You can also use this to build out your hacker portfolio too. 
 
 Make sure your projects are commited and posted to GitHub. This is how recruiters can know about your contributions.
+
+## (To - Do) Thing to note for your next job hunt
+
+Once you get atleast two projects under your belt you are ready to show off to recruiters much more liberally. You have more things to talk about. 
+Open Source Contributions (ra, ct, document)
+Networking (lin)
+Software Design (cc)
+Interview Prep (ctci, ele, leet)
+Resume Review (sections : edu, skills, proj,extracurriculars, awards)
+2nd year internships (prac, exp, prop, uni)
+Branding / Personal Website / Social Media
+Extracurriculars (cp, hacks, clubs, gdscl, msfa, gitex)
+Content (med, yt, lin)

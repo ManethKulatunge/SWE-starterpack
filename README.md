@@ -83,8 +83,8 @@ Make sure your projects are commited and posted to GitHub. This is how recruiter
 ## (To - Do) Thing to note for your next job hunt
 
 * Once you get atleast two projects under your belt you are ready to show off to recruiters much more liberally. You have more things to talk about. 
-* Open Source Contributions (ra, ct, document)
-* Networking (lin)
+* Open Source Contributions (ra, ctriag, document)
+* Networking (lin, career fairs, tech fairs, eventbrite, mtl new tech)
 * Software Design (cc)
 * Interview Prep (ctci, ele, leet)
 * Resume Review (sections : edu, skills, proj,extracurriculars, awards)

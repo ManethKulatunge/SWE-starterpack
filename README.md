@@ -92,3 +92,7 @@ Make sure your projects are commited and posted to GitHub. This is how recruiter
 * Branding / Personal Website / Social Media
 * Extracurriculars (cp, hacks, clubs, gdscl, msfa, gitex)
 * Content (med, yt, lin)
+
+Your job is to remind me to talk about all of these because it's important to tick these boxes, compete and win. I might not be able to write about it right away so it's important to keep good tabs on these and followup on these very regularly. I generally run out of energy these days and I tend to be forgetful so keep pushing. 
+
+All of this looks hectic but 3 years in, you will feel like the most powerful person on the planet. Software does that to you
